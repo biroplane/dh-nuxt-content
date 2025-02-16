@@ -1,7 +1,9 @@
 <script setup lang="ts">
-defineProps<{src:string}>()
+defineProps<{
+  src: string
+}>()
 </script>
 
 <template>
-  <img loading="lazy" :src />
+  <img loading="lazy" :src="src" />
 </template>

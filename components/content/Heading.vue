@@ -2,7 +2,7 @@
 defineProps<{level:number}>()
 </script>
 <template>
-  <component :is="`h${level}`" class="prose">
+  <component :is="`h${level}`" >
     <slot />
   </component>
 </template>
