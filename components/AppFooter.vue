@@ -25,7 +25,7 @@
               </li>
               <li>
                 <RouterLink 
-                  to="/about" 
+                  to="/" 
                   class="hover:text-white transition-colors duration-200"
                 >
                   About
@@ -33,7 +33,7 @@
               </li>
               <li>
                 <RouterLink 
-                  to="/contact" 
+                  to="/" 
                   class="hover:text-white transition-colors duration-200"
                 >
                   Contact
