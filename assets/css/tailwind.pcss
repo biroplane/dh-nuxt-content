@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+
+
+@layer components {
+
+}
+
+@tailwind utilities;
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .text-pretty{
+    text-wrap:pretty;
+  }
+
+  .cut-text {
+    @apply overflow-hidden whitespace-nowrap text-ellipsis  w-full;
+    display: -webkit-box;
+    inline-clamp: 3;
+    box-orient: vertical;
+  }
+
+}

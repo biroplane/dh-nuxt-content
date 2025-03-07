@@ -1,3 +1,7 @@
+---
+slug: "index"
+---
+
 # Hello, World
 
 I'm baby readymade cardigan chambray keytar pickled gatekeep mixtape. Pok pok farm-to-table hell of cred stumptown. Irony pug shabby chic mlkshk tumeric. Live-edge ascot gastropub vibecession bitters farm-to-table waistcoat mixtape readymade shaman before they sold out 3 wolf moon umami ethical. Seitan hoodie locavore sus hexagon shabby chic.
