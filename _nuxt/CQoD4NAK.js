@@ -1,0 +1,1 @@
+import{j as s,c as a,t as o,P as r,i as t}from"./88kjj4NQ.js";const n={};function c(e,l){return t(),a("main",null," SINGLE PAGE "+o((e._.provides[r]||e.$route).params.slug),1)}const i=s(n,[["render",c]]);export{i as default};
